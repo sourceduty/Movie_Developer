@@ -39,8 +39,6 @@
 <br>
 [Skydive Dirt Biking](https://github.com/sourceduty/Skydive_Dirt_Biking)
 <br>
-[Movie Developer](https://chatgpt.com/g/g-GKuoUegIF-movie-developer)
-<br>
 [House Design](https://github.com/sourceduty/House_Design)
 <br>
 [Vehicle Design](https://github.com/sourceduty/Vehicle_Design)
