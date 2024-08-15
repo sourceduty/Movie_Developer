@@ -50,6 +50,8 @@
 [James Bond Chat](https://github.com/sourceduty/James_Bond_Chat)
 <br>
 [Movie Prop Design](https://github.com/sourceduty/Movie_Prop_Design)
+<br>
+[Movie Bookscript](https://github.com/sourceduty/Movie_Bookscript)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
