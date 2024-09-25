@@ -1,4 +1,4 @@
-![Green Screen Movie Set](https://github.com/sourceduty/Movie_Developer/assets/123030236/c07ab585-7292-4803-a866-32c325b98b17)
+https://github.com/user-attachments/assets/196f6f4c-dd98-4e15-af81-3a544def1a74
 
 > Assistive movie idea creator, script writer and screenplay planner.
 
@@ -52,6 +52,10 @@
 [Movie Prop Design](https://github.com/sourceduty/Movie_Prop_Design)
 <br>
 [Movie Bookscript](https://github.com/sourceduty/Movie_Bookscript)
+
+#
+
+![Green Screen Movie Set](https://github.com/sourceduty/Movie_Developer/assets/123030236/c07ab585-7292-4803-a866-32c325b98b17)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
