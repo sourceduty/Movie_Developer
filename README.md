@@ -11,10 +11,6 @@ https://github.com/user-attachments/assets/196f6f4c-dd98-4e15-af81-3a544def1a74
 'Movie Developer' can create a wide range of content, including detailed plot outlines, character profiles, and full-length scripts. They can generate creative ideas for different genres, such as drama, comedy, thriller, or science fiction, and help in crafting unique and original storylines. Furthermore, a Movie Developer can design comprehensive production plans, including shooting schedules, location scouting reports, and casting suggestions. By offering a blend of creative and practical support, they play a crucial role in transforming a filmmaker's vision into a tangible, cinematic experience.
 
 #
-
-> Alex: "*Someone please make an AI-inspired custom GPT movie with a retro setting.*"
-
-#
 ### Related Links
 
 [Set Stage Design](https://github.com/sourceduty/Set_Stage_Design)
