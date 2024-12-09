@@ -19,7 +19,9 @@ Some common techniques include:
 
 1. Creating relatable characters that evoke empathy from the audience. This makes people more invested in their stories and outcomes.
 
-2. Using music and sound effects to heighten emotional responses during key scenes. Upbeat tunes can create a sense of excitement, while somber melodies might elicit sadness or tension. 3. Employing visual cues like lighting, camera angles, and editing techniques to guide the viewer's attention and shape their perception of events. For example, shaky cam footage could convey chaos, while slow-motion shots might emphasize dramatic moments.
+2. Using music and sound effects to heighten emotional responses during key scenes. Upbeat tunes can create a sense of excitement, while somber melodies might elicit sadness or tension.
+
+3. Employing visual cues like lighting, camera angles, and editing techniques to guide the viewer's attention and shape their perception of events. For example, shaky cam footage could convey chaos, while slow-motion shots might emphasize dramatic moments.
 
 4. Incorporating humor at strategic points in a narrative arc to provide relief from tension or make an audience more receptive to emotional appeals later on.
 
